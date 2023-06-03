@@ -2,6 +2,7 @@
 
 - ⚙️ I’m currently working on [Derupt](https://derupt.io)
 - 🔨 Building an alignment between censorship resistant content, sentiment, and monetization.
+- 💬 Ask me about Bitcoin, Stacks, or CityCoins
 
 <!--
 - 👯 I’m looking to collaborate on ...
