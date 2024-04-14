@@ -1,8 +1,8 @@
 ### 👋 Hello World 👋 
 
-- ⚙️ Currently working on [Derupt](https://derupt.io)
+- ⚙️ Currently working on [Derupt](https://derupt.io) & CryptoCash
 - 🔨 Building an alignment between censorship resistant content, sentiment, and monetization.
-- 💬 Ask about Bitcoin, Stacks, or CityCoins
+- 💬 Ask about Bitcoin, Stacks, or CryptoCash
 
 <!--
 - 👯 I’m looking to collaborate on ...
